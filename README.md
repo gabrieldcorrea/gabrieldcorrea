@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f7ff&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=52&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20interface&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Initializing+neural+interface...;Pimba+granted.;Full+Stack+Developer+%7C+Problem+Solver;Building+the+future%2C+one+line+at+a+time.;System+status%3A+ONLINE+%E2%9A%A1" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Inicializando+...;Desenvolvedor+Full+Stack+%7C+Problem+Solver;Building+the+future%2C+one+line+at+a+time.;System+status%3A+ONLINE+%E2%9A%A1" alt="Typing Animation"/>
 
 <br>
 
