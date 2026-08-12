@@ -172,7 +172,7 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieldcorrea&bg_color=0d1117&color=00f7ff&color=0:1c1c1c,50:3a3a3a,100:5c5c5c&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieldcorrea&bg_color=0d1117&color=00f7ff&line=0:1c1c1c,50:3a3a3a,100:5c5c5c&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
