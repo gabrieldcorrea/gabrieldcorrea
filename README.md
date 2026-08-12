@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f7ff&height=220&section=header&text=SISTEMA%20ONLINE&fontSize=52&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Bem-Vindo%20a%20minha%20interface%20digital&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,50:4f4f4f,100:808080&height=220&section=header&text=SISTEMA%20ONLINE&fontSize=52&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Bem-Vindo%20a%20minha%20interface%20digital&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Inicializando+...;Desenvolvedor+Full+Stack+%7C+Estudante;Status+do+Sistema:+ONLINE+%E2%9A%A1" alt="Typing Animation"/>
 
@@ -173,16 +173,6 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieldcorrea&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## `08 // TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gabrieldcorrea&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
