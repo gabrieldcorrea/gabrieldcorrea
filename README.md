@@ -188,7 +188,7 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 
 ---
 
-## `09 // CONTRIBUTION PROTOCOL`
+<!--## `09 // CONTRIBUTION PROTOCOL`
 
 <div align="center">
 
@@ -196,7 +196,7 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 
 </div>
 
----
+---!-->
 
 ## `10 // SOCIAL NETWORK`
 
@@ -206,7 +206,7 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f7ff"/>
 </a>
 
-<a href="https://instagram.com/https://www.instagram.com/gabelu._?igsh=eG5jMG1mamRpMmk1">
+<a href="https://instagram.com/https:/www.instagram.com/gabelu._?igsh=eG5jMG1mamRpMmk1">
 <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff00ff"/>
 </a>
 
