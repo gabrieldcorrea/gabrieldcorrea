@@ -5,11 +5,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,50:4f4f4f,100:808080&height=220&section=header&text=SISTEMA%20ONLINE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bem-Vindo%20a%20minha%20interface%20digital&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Inicializando+...;Desenvolvedor+Full+Stack+%7C+Estudante;Status+do+Sistema:+ONLINE+%E2%9A%A1" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=ffffff&center=true&vCenter=true&width=850&lines=Inicializando+...;Desenvolvedor+Full+Stack+%7C+Estudante;Status+do+Sistema:+ONLINE+%E2%9A%A1" alt="Typing Animation"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=00f7ff)](https://github.com/gabrieldcorrea)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=3a3a3a)](https://github.com/gabrieldcorrea)
 [![Visualizações do Perfil](https://komarev.com/ghpvc/?username=gabrieldcorrea\&color=00f7ff\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/gabrieldcorrea)
 [![Status](https://img.shields.io/badge/SISTEMA-ONLINE-00f7ff?style=for-the-badge\&logo=statuspage\&logoColor=black)](#)
 
