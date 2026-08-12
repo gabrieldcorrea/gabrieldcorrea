@@ -45,7 +45,7 @@
 
 ### ⚡ Linguagens
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java&theme=dark" />
 
 ### 🌐 Web & Frameworks
 
