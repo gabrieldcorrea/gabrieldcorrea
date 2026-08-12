@@ -130,7 +130,7 @@
 
 ```bash
 ╭──────────────────────────────────────────────────────────────╮
-│ root@developer:~$ ./current_mission.sh                       │
+│                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 
 [>] Aprimorar conhecimentos em programação
@@ -152,9 +152,9 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldcorrea&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&title_color=00f7ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldcorrea&layout=compact&theme=github_dark&hide_border=true&title_color=00f7ff&text_color=c9d1d9"/>
 
 </div>
 
@@ -162,7 +162,7 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" />
+<img src="https://streak-stats.demolab.com?user=gabrieldcorrea&theme=github-dark-blue&hide_border=true&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" />
 
 </div>
 
@@ -172,7 +172,7 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieldcorrea&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -182,7 +182,7 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gabrieldcorrea&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
@@ -192,7 +192,7 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/gabrieldcorrea/gabrieldcorrea/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
