@@ -162,7 +162,7 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gabrieldcorrea&theme=github-dark-blue&hide_border=true&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" />
+<img src="https://streak-stats.demolab.com?user=gabrieldcorrea&theme=github-dark-blue&hide_border=true&ring=5c5c5c&fire=5c5c5c&currStreakLabel=ffffff" />
 
 </div>
 
