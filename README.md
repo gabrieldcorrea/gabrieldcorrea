@@ -197,15 +197,15 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 </a>
 
 <a href="https://instagram.com/gabelu._?igsh=eG5jMG1mamRpMmk1)">
-<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff00ff"/>
+<img src="https://img.shields.io/badge/Instagram-5c5c5c?style=for-the-badge&logo=instagram&logoColor=ff00ff"/>
 </a>
 
 <a href="mailto:gabrieldddalmora@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff003c"/>
+<img src="https://img.shields.io/badge/Email-5c5c5c?style=for-the-badge&logo=gmail&logoColor=ff003c"/>
 </a>
 
 <a href="https://github.com/gabrieldcorrea">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GitHub-5c5c5c?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 </div>
