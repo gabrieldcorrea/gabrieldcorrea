@@ -24,20 +24,19 @@ Abaixo está um README completo. **Substitua `SEU_USUARIO` pelo seu username do 
 ╔══════════════════════════════════════════════════════════════╗
 ║                     USER PROFILE                             ║
 ╠══════════════════════════════════════════════════════════════╣
-║ Name       : SEU NOME                                       ║
-║ Role       : Developer / Technology Enthusiast              ║
-║ Location   : Brazil 🇧🇷                                     ║
+║ Name       : Gabriel D. Corrêa                               ║
+║ Role       : Estudante / Dev. FullStack                      ║
+║ Location   : Joinville, SC, Brasil                           ║
 ║ Status     : ONLINE                                          ║
-║ Mission    : Build • Learn • Innovate                       ║
-║ Mindset    : "The future is written in code."               ║
+║ Mission    : Construir • Aprender • Inovar                   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-> 💡 Sou apaixonado por tecnologia, programação e criação de soluções digitais.
+> 💡 Estudante de ADS, focado no Back-end.
 >
-> 🚀 Estou constantemente aprendendo novas tecnologias e transformando ideias em projetos.
+> 🚀 Constantemente aprendendo e procurando inspirações pra novos projetos.
 >
-> 🧠 Meu objetivo é evoluir continuamente como desenvolvedor e construir experiências digitais cada vez melhores.
+> 🧠 Meu objetivo é evoluir continuamente como desenvolvedor e construir experiências e projetos cada vez melhores.
 
 ---
 
