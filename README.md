@@ -1,5 +1,5 @@
 
-# ⚡ SYSTEM ONLINE
+# ⚡ SISTEMA ONLINE
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ---
 
-## `01 // ABOUT ME`
+## `01 // SOBRE MIM`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
@@ -43,7 +43,7 @@
 
 <div align="center">
 
-### ⚡ Languages
+### ⚡ Linguagens
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,java&theme=dark" />
 
