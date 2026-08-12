@@ -57,7 +57,7 @@
 
 ### ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,windows,vercel,aws&theme=dark" />
 
 </div>
 
