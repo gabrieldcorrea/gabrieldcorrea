@@ -11,7 +11,7 @@ Abaixo está um README completo. **Substitua `SEU_USUARIO` pelo seu username do 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=00f7ff)](https://github.com/SEU_USUARIO)
-[![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&color=00f7ff\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/SEU_USUARIO)
+[![Profile Views](https://komarev.com/ghpvc/?username=gabrieldcorrea\&color=00f7ff\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/SEU_USUARIO)
 [![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00f7ff?style=for-the-badge\&logo=statuspage\&logoColor=black)](#)
 
 </div>
