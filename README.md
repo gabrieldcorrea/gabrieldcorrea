@@ -3,15 +3,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f7ff&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=52&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20interface&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f7ff&height=220&section=header&text=SISTEMA%20ONLINE&fontSize=52&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20interface&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Inicializando+...;Desenvolvedor+Full+Stack+%7C+Estudante;Status+do+Sistema:+ONLINE+%E2%9A%A1" alt="Typing Animation"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=00f7ff)](https://github.com/SEU_USUARIO)
-[![Profile Views](https://komarev.com/ghpvc/?username=gabrieldcorrea\&color=00f7ff\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/gabrieldcorrea)
-[![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00f7ff?style=for-the-badge\&logo=statuspage\&logoColor=black)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=00f7ff)](https://github.com/gabrieldcorrea)
+[![Visualizações do Perfil](https://komarev.com/ghpvc/?username=gabrieldcorrea\&color=00f7ff\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/gabrieldcorrea)
+[![Status](https://img.shields.io/badge/SISTEMA-ONLINE-00f7ff?style=for-the-badge\&logo=statuspage\&logoColor=black)](#)
 
 </div>
 
@@ -222,31 +222,9 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 
 ---
 
-## `11 // SYSTEM TERMINAL`
-
-```text
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│   ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗   │
-│   ██╔════╝██║   ██║██╔════╝╚══██╔══╝██╔════╝████╗ ████║   │
-│   ███████╗██║   ██║███████╗   ██║   █████╗  ██╔████╔██║   │
-│   ╚════██║██║   ██║╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║   │
-│   ███████║╚██████╔╝███████║   ██║   ███████╗██║ ╚═╝ ██║   │
-│   ╚══════╝ ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝   │
-│                                                             │
-│                 ARTIFICIAL INTELLIGENCE                     │
-│                    INTERFACE v1.0                           │
-│                                                             │
-│              SYSTEM STATUS: OPERATIONAL                    │
-│              SECURITY: ██████████ 100%                     │
-│              NETWORK: CONNECTED                            │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
-```
-
 <div align="center">
 
-### `// END OF TRANSMISSION`
+### `// FIM DA TRANSMISSÃO`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 
