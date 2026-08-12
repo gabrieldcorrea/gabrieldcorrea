@@ -84,7 +84,7 @@
 
 ## `04 // MELHORES PROJETOS`
 
-<div align="center">
+<!--<div align="center">
 
 <a href="https://github.com/gabrieldcorrea">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieldcorrea&repo=SEU_PROJETO_1&theme=github_dark&hide_border=true&title_color=00f7ff&icon_color=00f7ff" />
@@ -94,20 +94,20 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieldcorrea&repo=SEU_PROJETO_2&theme=github_dark&hide_border=true&title_color=00f7ff&icon_color=00f7ff" />
 </a>
 
-</div>
+</div>!-->
 
-### 🚀 Projects
+### 🚀 Projetos
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │ PROJECT_01                                                  │
 │ ─────────────────────────────────────────────────────────── │
-│ ⚡ Nome do projeto                                          │
 │                                                             │
-│ Uma breve descrição do projeto e seu objetivo.              │
 │                                                             │
-│ STACK: HTML • CSS • JavaScript                              │
-│ STATUS: ████████████████████ 100%                           │
+│ Em breve...                                                 │
+│                                                             │
+│ STACK: ---                                                  │
+│ STATUS: ░░░░░░░░░░░░░░░░░░░░ 0%                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -115,37 +115,35 @@
 ┌─────────────────────────────────────────────────────────────┐
 │ PROJECT_02                                                  │
 │ ─────────────────────────────────────────────────────────── │
-│ 🤖 Nome do projeto                                          │
 │                                                             │
-│ Uma breve descrição do projeto e suas funcionalidades.      │
 │                                                             │
-│ STACK: React • Node.js • Database                           │
-│ STATUS: ███████████████░░░ 80%                              │
+│ Em breve...                                                 │
+│                                                             │
+│ STACK: ---                                                  │
+│ STATUS: ░░░░░░░░░░░░░░░░░░ 0%                               │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `05 // CURRENT OBJECTIVES`
+## `05 // ATUAIS OBJETIVOS`
 
 ```bash
 ╭──────────────────────────────────────────────────────────────╮
 │ root@developer:~$ ./current_mission.sh                       │
 ╰──────────────────────────────────────────────────────────────╯
 
-[✓] Aprimorar conhecimentos em programação
-[✓] Construir projetos reais
+[>] Aprimorar conhecimentos em programação
+[>] Construir projetos reais
 [>] Aprender novas tecnologias
 [>] Melhorar arquitetura de software
 [>] Criar interfaces modernas
 [>] Contribuir para projetos Open Source
-[ ] Desenvolver sistemas cada vez mais complexos
+[>] Desenvolver sistemas cada vez mais complexos
 
 STATUS: LEARNING_MODE
-PROGRESS: ███████████████░░░░░ 78%
+PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 
-root@developer:~$ echo "Keep building. Keep learning."
-Keep building. Keep learning. ⚡
 ```
 
 ---
