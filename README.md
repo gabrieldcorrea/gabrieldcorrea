@@ -49,15 +49,15 @@
 
 ### 🌐 Web & Frameworks
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark" />
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
 ### ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,windows,vercel,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,windows,vercel&theme=dark" />
 
 </div>
 
