@@ -10,8 +10,8 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=5c5c5c)](https://github.com/gabrieldcorrea)
-[![Visualizações do Perfil](https://komarev.com/ghpvc/?username=gabrieldcorrea\&color=00f7ff\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/gabrieldcorrea)
-[![Status](https://img.shields.io/badge/SISTEMA-ONLINE-00f7ff?style=for-the-badge\&logo=statuspage\&logoColor=black)](#)
+[![Visualizações do Perfil](https://komarev.com/ghpvc/?username=gabrieldcorrea\&color=1c1c1c\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/gabrieldcorrea)
+[![Status](https://img.shields.io/badge/SISTEMA-ONLINE-1c1c1c?style=for-the-badge\&logo=statuspage\&logoColor=black)](#)
 
 </div>
 
