@@ -9,7 +9,7 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=3a3a3a)](https://github.com/gabrieldcorrea)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=5c5c5c)](https://github.com/gabrieldcorrea)
 [![Visualizações do Perfil](https://komarev.com/ghpvc/?username=gabrieldcorrea\&color=00f7ff\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/gabrieldcorrea)
 [![Status](https://img.shields.io/badge/SISTEMA-ONLINE-00f7ff?style=for-the-badge\&logo=statuspage\&logoColor=black)](#)
 
