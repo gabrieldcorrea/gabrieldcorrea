@@ -202,11 +202,11 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/gabriel-dalmora-corrêa-bb5636293/">
+<a href="https://www.linkedin.com/in/gabriel-dalmora-corrêa-bb5636293/">
 <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f7ff"/>
 </a>
 
-<a href="https://instagram.com/https://(www.instagram.com/gabelu._?igsh=eG5jMG1mamRpMmk1)">
+<a href="https://instagram.com/gabelu._?igsh=eG5jMG1mamRpMmk1)">
 <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff00ff"/>
 </a>
 
