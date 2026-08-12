@@ -222,8 +222,8 @@ PROGRESS: █░░░░░░░░░░░░░░░░░░░ 10%
 
 <br>
 
-![Made with](https://img.shields.io/badge/MADE_WITH-CODE-00f7ff?style=flat-square)
-![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00f7ff?style=flat-square)
-![Version](https://img.shields.io/badge/VERSION-1.0-8b5cf6?style=flat-square)
+![Made with](https://img.shields.io/badge/MADE_WITH-CODE-1c1c1c?style=flat-square)
+![Status](https://img.shields.io/badge/SYSTEM-ONLINE-1c1c1c?style=flat-square)
+![Version](https://img.shields.io/badge/VERSION-1.0-808080?style=flat-square)
 
 </div>
