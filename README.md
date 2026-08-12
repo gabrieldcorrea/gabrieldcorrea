@@ -63,35 +63,35 @@
 
 ---
 
-## `03 // TOOLS`
+## `03 // FERRAMENTAS`
 
 <div align="center">
 
-| Tool            | Purpose         |
-| --------------- | --------------- |
-| 💻 VS Code      | Development     |
-| 🐙 Git / GitHub | Version Control |
-| 🐧 Linux        | Environment     |
-| 🐳 Docker       | Containers      |
+| Ferramenta      | Proposta         |
+| --------------- | ---------------  |
+| 💻 VS Code      | Desenvolvimento |
+| 🐙 Git / GitHub | Controle de Versão |         
+| 🐧 Windows      | Ambiente        |
+| 🐳 Docker       | Container       |
 | 🎨 Figma        | UI / UX         |
-| 🧪 Postman      | API Testing     |
-| ⚡ Vercel        | Deployment      |
-| 🤖 AI Tools     | Productivity    |
+| 🧪 Postman      | API             |
+| ⚡ Vercel       | Deploy          |
+| 🤖 AI Tools     | Produtividade   |
 
 </div>
 
 ---
 
-## `04 // FEATURED PROJECTS`
+## `04 // MELHORES PROJETOS`
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_PROJETO_1&theme=github_dark&hide_border=true&title_color=00f7ff&icon_color=00f7ff" />
+<a href="https://github.com/gabrieldcorrea">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieldcorrea&repo=SEU_PROJETO_1&theme=github_dark&hide_border=true&title_color=00f7ff&icon_color=00f7ff" />
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_PROJETO_2&theme=github_dark&hide_border=true&title_color=00f7ff&icon_color=00f7ff" />
+<a href="https://github.com/gabrieldcorrea">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieldcorrea&repo=SEU_PROJETO_2&theme=github_dark&hide_border=true&title_color=00f7ff&icon_color=00f7ff" />
 </a>
 
 </div>
